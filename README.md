@@ -14,4 +14,10 @@ Docker es una plataforma de software que le permite crear, probar e implementar 
 * facilidad al mover
 * sandbox
 
+## Cómo funciona Docker
+
+Docker le proporciona una manera estándar de ejecutar su código. Docker es un sistema operativo para contenedores. De manera similar a cómo una máquina virtual virtualiza (elimina la necesidad de administrar directamente) el hardware del servidor, los contenedores virtualizan el sistema operativo de un servidor. Docker se instala en cada servidor y proporciona comandos sencillos que puede utilizar para crear, iniciar o detener contenedores.
+
 ## Diferencia entre Docker y una maquina virtual
+
+Las máquinas virtuales (VM) virtualizan (o eliminan la necesidad de administrar directamente) el hardware del servidor, mientras que los contenedores virtualizan el sistema operativo de un sistema. Docker es un sistema operativo (o runtime) para contenedores. El motor de Docker se instala en cada servidor en el que desee ejecutar contenedores y proporciona un conjunto sencillo de comandos que puede utilizar para crear, iniciar o detener contenedores.
